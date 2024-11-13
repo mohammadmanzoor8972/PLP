@@ -1,2 +1,1 @@
-# PLP
-Created with CodeSandbox
+# e-commerce
